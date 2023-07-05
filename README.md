@@ -17,7 +17,6 @@ Txt file should be written in the following format for the program to work:
   -Available[y]: Available array of size y
 
 Example:
-
   5 5 N      
   1 2 0 3 0   \
   0 1 1 1 1    \
